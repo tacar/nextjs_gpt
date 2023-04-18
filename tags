@@ -7,18 +7,12 @@
 module.exports.content	tailwind.config.js	/^  content: [$/;"	p
 const.reactStrictMode	next.config.js	/^  reactStrictMode: true,$/;"	p
 const.swcMinify	next.config.js	/^  swcMinify: true,$/;"	p
-self.__NEXT_FONT_MANIFEST.pages	.next/server/next-font-manifest.js	/^self.__NEXT_FONT_MANIFEST={pages:{},app:{},appUsingSizeAdjust:!1,pagesUsingSizeAdjust:!1};/;"	p
-function.__webpack_require__	.next/server/webpack-api-runtime.js	/^\/******\/ 	function __webpack_require__(moduleId) {$/;"	f
-var.installedChunks.165	.next/server/webpack-api-runtime.js	/^\/******\/ 			165: 1$/;"	p
+self.__NEXT_FONT_MANIFEST.pages	.next/server/next-font-manifest.js	/^  "pages": {},$/;"	p
 function.__webpack_require__	.next/server/webpack-runtime.js	/^\/******\/ 	function __webpack_require__(moduleId) {$/;"	f
-var.installedChunks.658	.next/server/webpack-runtime.js	/^\/******\/ 			658: 1$/;"	p
-exports.modules.495	.next/server/pages/_error.js	/^\/***\/ 495:$/;"	p
-function.extends_	.next/server/pages/_error.js	/^function extends_() {$/;"	f
-function._extends	.next/server/pages/_error.js	/^function _extends() {$/;"	f
+var.installedChunks.webpack-runtime	.next/server/webpack-runtime.js	/^\/******\/ 			"webpack-runtime": 1$/;"	p
+exports.modules../node_modules/@swc/helpers/lib/_extends.js	.next/server/pages/_error.js	/^\/***\/ ".\/node_modules\/@swc\/helpers\/lib\/_extends.js":$/;"	p
 __webpack_require__	.next/server/pages/_error.js	/^var __webpack_require__ = require("..\/webpack-runtime.js");$/;"	v
-exports.modules.4	.next/server/pages/_app.js	/^\/***\/ 4:$/;"	p
-function.MyApp	.next/server/pages/_app.js	/^function MyApp({ Component , pageProps  }) {$/;"	f
+exports.modules../pages/_app.js	.next/server/pages/_app.js	/^\/***\/ ".\/pages\/_app.js":$/;"	p
 __webpack_require__	.next/server/pages/_app.js	/^var __webpack_require__ = require("..\/webpack-runtime.js");$/;"	v
-exports.modules.704	.next/server/pages/api/hello.js	/^\/***\/ 704:$/;"	p
-function.handler	.next/server/pages/api/hello.js	/^function handler(req, res) {$/;"	f
-__webpack_require__	.next/server/pages/api/hello.js	/^var __webpack_require__ = require("..\/..\/webpack-api-runtime.js");$/;"	v
+exports.modules../pages/index.js	.next/server/pages/index.js	/^\/***\/ ".\/pages\/index.js":$/;"	p
+__webpack_require__	.next/server/pages/index.js	/^var __webpack_require__ = require("..\/webpack-runtime.js");$/;"	v
