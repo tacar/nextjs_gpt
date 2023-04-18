@@ -22,12 +22,3 @@ __webpack_require__	.next/server/pages/_app.js	/^var __webpack_require__ = requi
 exports.modules.704	.next/server/pages/api/hello.js	/^\/***\/ 704:$/;"	p
 function.handler	.next/server/pages/api/hello.js	/^function handler(req, res) {$/;"	f
 __webpack_require__	.next/server/pages/api/hello.js	/^var __webpack_require__ = require("..\/..\/webpack-api-runtime.js");$/;"	v
-exports.modules.940	.next/server/pages/_document.js	/^\/***\/ 940:$/;"	p
-_interopRequireDefault	.next/server/pages/_document.js	/^function _interopRequireDefault(obj) {$/;"	f
-_getRequireWildcardCache	.next/server/pages/_document.js	/^    _getRequireWildcardCache = function() {$/;"	f
-_interopRequireWildcard	.next/server/pages/_document.js	/^function _interopRequireWildcard(obj) {$/;"	f
-getDocumentFiles	.next/server/pages/_document.js	/^function getDocumentFiles(buildManifest, pathname, inAmpMode) {$/;"	f
-getPolyfillScripts	.next/server/pages/_document.js	/^function getPolyfillScripts(context, props) {$/;"	f
-hasComponentProps	.next/server/pages/_document.js	/^function hasComponentProps(child) {$/;"	f
-self.__BUILD_MANIFEST.polyfillFiles	.next/server/middleware-build-manifest.js	/^self.__BUILD_MANIFEST={polyfillFiles:["static\/chunks\/polyfills-c67a75d1b6f99dc8.js"],devFiles:[],ampDevFiles:[],lowPriorityFiles:["static\/fmObNqsgwJeFdZmTdaklm\/_buildManifest.js","static\/fmObNqsgwJeFdZmTdaklm\/_ssgManifest.js"],rootMainFiles:[],pages:{"\/":["static\/chunks\/webpack-8fa1640cc84ba8fe.js","static\/chunks\/framework-cda2f1305c3d9424.js","static\/chunks\/main-4dcb7f9b52833aba.js","static\/chunks\/237-41eec01fa14839e8.js","static\/chunks\/pages\/index-78c22a90b927f78c.js"],"\/_app":["static\/chunks\/webpack-8fa1640cc84ba8fe.js","static\/chunks\/framework-cda2f1305c3d9424.js","static\/chunks\/main-4dcb7f9b52833aba.js","static\/css\/5ba10ceaedbd3af6.css","static\/chunks\/pages\/_app-aeaf2e663c92c00a.js"],"\/_error":["static\/chunks\/webpack-8fa1640cc84ba8fe.js","static\/chunks\/framework-cda2f1305c3d9424.js","static\/chunks\/main-4dcb7f9b52833aba.js","static\/chunks\/pages\/_error-54de1933a164a1ff.js"]},ampFirstPages:[]};/;"	p
-self.__BUILD_MANIFEST.__rewrites	.next/static/fmObNqsgwJeFdZmTdaklm/_buildManifest.js	/^self.__BUILD_MANIFEST={__rewrites:{beforeFiles:[],afterFiles:[],fallback:[]},"\/":["static\/chunks\/237-41eec01fa14839e8.js","static\/chunks\/pages\/index-78c22a90b927f78c.js"],"\/_error":["static\/chunks\/pages\/_error-54de1933a164a1ff.js"],sortedPages:["\/","\/_app","\/_error"]},self.__BUILD_MANIFEST_CB&&self.__BUILD_MANIFEST_CB();/;"	p
