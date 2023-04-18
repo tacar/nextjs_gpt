@@ -1,0 +1,33 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+module.exports.content	tailwind.config.js	/^  content: [$/;"	p
+const.reactStrictMode	next.config.js	/^  reactStrictMode: true,$/;"	p
+const.swcMinify	next.config.js	/^  swcMinify: true,$/;"	p
+self.__NEXT_FONT_MANIFEST.pages	.next/server/next-font-manifest.js	/^self.__NEXT_FONT_MANIFEST={pages:{},app:{},appUsingSizeAdjust:!1,pagesUsingSizeAdjust:!1};/;"	p
+function.__webpack_require__	.next/server/webpack-api-runtime.js	/^\/******\/ 	function __webpack_require__(moduleId) {$/;"	f
+var.installedChunks.165	.next/server/webpack-api-runtime.js	/^\/******\/ 			165: 1$/;"	p
+function.__webpack_require__	.next/server/webpack-runtime.js	/^\/******\/ 	function __webpack_require__(moduleId) {$/;"	f
+var.installedChunks.658	.next/server/webpack-runtime.js	/^\/******\/ 			658: 1$/;"	p
+exports.modules.495	.next/server/pages/_error.js	/^\/***\/ 495:$/;"	p
+function.extends_	.next/server/pages/_error.js	/^function extends_() {$/;"	f
+function._extends	.next/server/pages/_error.js	/^function _extends() {$/;"	f
+__webpack_require__	.next/server/pages/_error.js	/^var __webpack_require__ = require("..\/webpack-runtime.js");$/;"	v
+exports.modules.4	.next/server/pages/_app.js	/^\/***\/ 4:$/;"	p
+function.MyApp	.next/server/pages/_app.js	/^function MyApp({ Component , pageProps  }) {$/;"	f
+__webpack_require__	.next/server/pages/_app.js	/^var __webpack_require__ = require("..\/webpack-runtime.js");$/;"	v
+exports.modules.704	.next/server/pages/api/hello.js	/^\/***\/ 704:$/;"	p
+function.handler	.next/server/pages/api/hello.js	/^function handler(req, res) {$/;"	f
+__webpack_require__	.next/server/pages/api/hello.js	/^var __webpack_require__ = require("..\/..\/webpack-api-runtime.js");$/;"	v
+exports.modules.940	.next/server/pages/_document.js	/^\/***\/ 940:$/;"	p
+_interopRequireDefault	.next/server/pages/_document.js	/^function _interopRequireDefault(obj) {$/;"	f
+_getRequireWildcardCache	.next/server/pages/_document.js	/^    _getRequireWildcardCache = function() {$/;"	f
+_interopRequireWildcard	.next/server/pages/_document.js	/^function _interopRequireWildcard(obj) {$/;"	f
+getDocumentFiles	.next/server/pages/_document.js	/^function getDocumentFiles(buildManifest, pathname, inAmpMode) {$/;"	f
+getPolyfillScripts	.next/server/pages/_document.js	/^function getPolyfillScripts(context, props) {$/;"	f
+hasComponentProps	.next/server/pages/_document.js	/^function hasComponentProps(child) {$/;"	f
+self.__BUILD_MANIFEST.polyfillFiles	.next/server/middleware-build-manifest.js	/^self.__BUILD_MANIFEST={polyfillFiles:["static\/chunks\/polyfills-c67a75d1b6f99dc8.js"],devFiles:[],ampDevFiles:[],lowPriorityFiles:["static\/fmObNqsgwJeFdZmTdaklm\/_buildManifest.js","static\/fmObNqsgwJeFdZmTdaklm\/_ssgManifest.js"],rootMainFiles:[],pages:{"\/":["static\/chunks\/webpack-8fa1640cc84ba8fe.js","static\/chunks\/framework-cda2f1305c3d9424.js","static\/chunks\/main-4dcb7f9b52833aba.js","static\/chunks\/237-41eec01fa14839e8.js","static\/chunks\/pages\/index-78c22a90b927f78c.js"],"\/_app":["static\/chunks\/webpack-8fa1640cc84ba8fe.js","static\/chunks\/framework-cda2f1305c3d9424.js","static\/chunks\/main-4dcb7f9b52833aba.js","static\/css\/5ba10ceaedbd3af6.css","static\/chunks\/pages\/_app-aeaf2e663c92c00a.js"],"\/_error":["static\/chunks\/webpack-8fa1640cc84ba8fe.js","static\/chunks\/framework-cda2f1305c3d9424.js","static\/chunks\/main-4dcb7f9b52833aba.js","static\/chunks\/pages\/_error-54de1933a164a1ff.js"]},ampFirstPages:[]};/;"	p
+self.__BUILD_MANIFEST.__rewrites	.next/static/fmObNqsgwJeFdZmTdaklm/_buildManifest.js	/^self.__BUILD_MANIFEST={__rewrites:{beforeFiles:[],afterFiles:[],fallback:[]},"\/":["static\/chunks\/237-41eec01fa14839e8.js","static\/chunks\/pages\/index-78c22a90b927f78c.js"],"\/_error":["static\/chunks\/pages\/_error-54de1933a164a1ff.js"],sortedPages:["\/","\/_app","\/_error"]},self.__BUILD_MANIFEST_CB&&self.__BUILD_MANIFEST_CB();/;"	p
